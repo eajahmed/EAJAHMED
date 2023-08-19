@@ -44,7 +44,7 @@ Virtual Assistant/ Web Researcher/ Data Entry Expert
 
 ### Skills: 
 
-✅HTML ✅CSS ✅JavaScript ✅WordPress ✅Elementor ✅WooCommerce 
+✅HTML ✅CSS ✅JavaScript ✅Python ✅WordPress ✅Elementor ✅WooCommerce 
 
 <hr>
 

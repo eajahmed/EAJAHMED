@@ -15,7 +15,7 @@
 
 I am EAJUDDIN AHMED. Web, WordPress & WooCommerce Developer, Lead Generator/ Email Marketing Expert. 
 
-As a freelancer Completed 50+ Projects in 32+ country's 46+ clients at various marketplaces since 2021
+As a freelancer Completed 50+ Projects in 32+ countries with 46+ clients at various marketplaces since 2022
 
 ---------------------
 
@@ -56,7 +56,7 @@ Virtual Assistant/ Web Researcher/ Data Entry Expert
  
  🌱 I’m currently learning **Python, JAVA, ReactJs**
 
- 💬 Ask me about **Website, WordPress, Technology, Programing... or anything [here](https://github.com/eajahmed/eajahmed/issues)**
+ 💬 Ask me about **Website, WordPress, Technology, Programming... or anything [here](https://github.com/eajahmed/eajahmed/issues)**
 
  ⚡ Fun fact **Bangladesh Government Websites have no SSL**
  
@@ -89,10 +89,11 @@ Virtual Assistant/ Web Researcher/ Data Entry Expert
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eajahmed/eajahmed/output/github-contribution-grid-snake.gif" />
+  <img alt="snake eating my contributions" src="https://github.com/eajahmed/eajahmed/blob/output/github-contribution-grid-snake.gif" />
 </div>
 
 <hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

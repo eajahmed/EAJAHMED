@@ -89,7 +89,7 @@ Virtual Assistant/ Web Researcher/ Data Entry Expert
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/eajahmed/eajahmed/blob/output/github-contribution-grid-snake.gif" />
+  <img alt="snake eating my contributions" src="https://github.com/eajahmed/EAJAHMED/blob/output/github-contribution-grid-snake.gif" />
 </div>
 
 <hr/>

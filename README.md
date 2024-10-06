@@ -1,4 +1,4 @@
-![I am a professional front-end Web Developer. ](https://pbs.twimg.com/profile_banners/1615937350269562880/1676960266/1500x500)
+![I am a professional front-end Web Developer. ](https://pbs.twimg.com/profile_banners/1615937350269562880/1727184486/1080x360)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eajahmed.eajahmed" />
 
 <h1 align="center">
@@ -13,9 +13,9 @@
 
 ## Intro & Achievements
 
-I am EAJUDDIN AHMED. Web, WordPress & WooCommerce Developer, Lead Generator/ Email Marketing Expert. 
+I am EAJUDDIN AHMED. Web Developer and WordPress Expert. 
 
-As a freelancer Completed 50+ Projects in 32+ countries with 46+ clients at various marketplaces since 2022
+As a freelancer, I have Completed 50+ Projects in 32+ countries with 46+ clients at various marketplaces since 2022
 
 ---------------------
 
@@ -23,28 +23,22 @@ As a freelancer Completed 50+ Projects in 32+ countries with 46+ clients at vari
 
 WordPress & WooCommerce Expert
 
-PSD TO HTML/ HTML TO WordPress
+PSD TO HTML or WordPress, Figma to HTML or WordPress, HTML TO WordPress
 
-HTML, CSS. BOOTSTRAP, JAVASCRIPT, Python, WordPress Bug/ Error Fixing.
+HTML, CSS. Tailwind, Bootstrap, JavaScript, Java, PHP, Python, WordPress Bug/ Error Fixing.
 
-Lead Generation Expert & Finding business email and contact details
-
-eCommerce & Dropshipping Expert
+eCommerce & Dropshipping.
 
 Website Maintenance & Website Optimization
 
 Website speed increase & SEO
-
-Email Marketing & eCommerce Automation
-
-Virtual Assistant/ Web Researcher/ Data Entry Expert
 
 ---------------------
 
 
 ### Skills: 
 
-✅HTML ✅CSS ✅JavaScript ✅Python ✅WordPress ✅Elementor ✅WooCommerce 
+✅HTML ✅CSS ✅JavaScript ✅Python ✅PHP ✅Java ✅WordPress
 
 <hr>
 
@@ -79,8 +73,8 @@ Virtual Assistant/ Web Researcher/ Data Entry Expert
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,github" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,flask,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,php" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,vscode,git,github,figma" />
 </div>
 
 <br/>

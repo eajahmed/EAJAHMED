@@ -73,8 +73,7 @@ Website speed increase & SEO
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,php" /><br>
-    <img src="https://skillicons.dev/icons?i=python,java,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,jquery,php,python,java,vscode,git,github,figma,wordpress,postman,graphql&perline=5" />
 </div>
 
 <br/>
